@@ -1,2 +1,4 @@
 .data
 onemuri/
+wp-contents/*
+!wp-contents/.keep
