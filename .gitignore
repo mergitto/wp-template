@@ -2,3 +2,4 @@
 onemuri/
 wp-contents/*
 !wp-contents/.keep
+.DS_Store
